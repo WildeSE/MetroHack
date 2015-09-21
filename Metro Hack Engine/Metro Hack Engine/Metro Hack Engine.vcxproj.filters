@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Меню">
+      <UniqueIdentifier>{7916c339-81e4-46af-9dde-f67d042bf9af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Защита и функции">
+      <UniqueIdentifier>{bcb19b85-bda2-47a6-8f7a-ad8c3e68a7e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Защита и функции\ESP">
+      <UniqueIdentifier>{29662732-5410-4c28-98f8-c2857477ce02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Меню</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw.h">
+      <Filter>Меню</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Меню</Filter>
+    </ClInclude>
+    <ClInclude Include="Components.h">
+      <Filter>Меню</Filter>
+    </ClInclude>
+    <ClInclude Include="Features.h">
+      <Filter>Защита и функции</Filter>
+    </ClInclude>
+    <ClInclude Include="Bypass.h">
+      <Filter>Защита и функции</Filter>
+    </ClInclude>
+    <ClInclude Include="Protection.h">
+      <Filter>Защита и функции</Filter>
+    </ClInclude>
+    <ClInclude Include="textures.h">
+      <Filter>Защита и функции</Filter>
+    </ClInclude>
+    <ClInclude Include="Variables.h">
+      <Filter>Меню</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClass.h">
+      <Filter>Защита и функции\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="ESPoid.h">
+      <Filter>Защита и функции\ESP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

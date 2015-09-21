@@ -1,0 +1,133 @@
+﻿Построение начато 07.11.2013 17:40:40.
+     1>Проект "C:\Users\DotNET\Dropbox\Metro Hack Engine\Metro Hack Engine\Metro Hack Engine.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D METROHACKENGINE_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(44): warning C4005: DARK1: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(17): см. предыдущее определение "DARK1"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(45): warning C4005: DARK2: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(18): см. предыдущее определение "DARK2"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(46): warning C4005: DARK3: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(19): см. предыдущее определение "DARK3"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(47): warning C4005: DARK4: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(20): см. предыдущее определение "DARK4"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(48): warning C4005: DARK5: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(21): см. предыдущее определение "DARK5"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(49): warning C4005: DARK6: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(22): см. предыдущее определение "DARK6"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(50): warning C4005: DARK7: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(23): см. предыдущее определение "DARK7"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(51): warning C4005: DARK8: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(24): см. предыдущее определение "DARK8"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(52): warning C4005: DARK9: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(25): см. предыдущее определение "DARK9"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(53): warning C4005: DARK10: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(26): см. предыдущее определение "DARK10"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(54): warning C4005: DARK11: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(27): см. предыдущее определение "DARK11"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(55): warning C4005: DARK12: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(28): см. предыдущее определение "DARK12"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(56): warning C4005: DARK13: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(29): см. предыдущее определение "DARK13"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(57): warning C4005: DARK14: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(30): см. предыдущее определение "DARK14"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(58): warning C4005: DARK15: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(31): см. предыдущее определение "DARK15"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(59): warning C4005: DARK16: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(32): см. предыдущее определение "DARK16"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(60): warning C4005: DARK18: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(33): см. предыдущее определение "DARK18"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(62): warning C4005: WINDOWS: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(34): см. предыдущее определение "WINDOWS"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(63): warning C4005: WINDOWS2: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(35): см. предыдущее определение "WINDOWS2"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(17): warning C4005: DARK1: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(44): см. предыдущее определение "DARK1"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(18): warning C4005: DARK2: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(45): см. предыдущее определение "DARK2"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(19): warning C4005: DARK3: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(46): см. предыдущее определение "DARK3"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(20): warning C4005: DARK4: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(47): см. предыдущее определение "DARK4"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(21): warning C4005: DARK5: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(48): см. предыдущее определение "DARK5"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(22): warning C4005: DARK6: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(49): см. предыдущее определение "DARK6"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(23): warning C4005: DARK7: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(50): см. предыдущее определение "DARK7"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(24): warning C4005: DARK8: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(51): см. предыдущее определение "DARK8"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(25): warning C4005: DARK9: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(52): см. предыдущее определение "DARK9"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(26): warning C4005: DARK10: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(53): см. предыдущее определение "DARK10"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(27): warning C4005: DARK11: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(54): см. предыдущее определение "DARK11"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(28): warning C4005: DARK12: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(55): см. предыдущее определение "DARK12"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(29): warning C4005: DARK13: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(56): см. предыдущее определение "DARK13"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(30): warning C4005: DARK14: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(57): см. предыдущее определение "DARK14"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(31): warning C4005: DARK15: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(58): см. предыдущее определение "DARK15"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(32): warning C4005: DARK16: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(59): см. предыдущее определение "DARK16"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(33): warning C4005: DARK18: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(60): см. предыдущее определение "DARK18"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(34): warning C4005: WINDOWS: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(62): см. предыдущее определение "WINDOWS"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(35): warning C4005: WINDOWS2: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(63): см. предыдущее определение "WINDOWS2"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(44): warning C4005: DARK1: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(17): см. предыдущее определение "DARK1"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(45): warning C4005: DARK2: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(18): см. предыдущее определение "DARK2"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(46): warning C4005: DARK3: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(19): см. предыдущее определение "DARK3"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(47): warning C4005: DARK4: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(20): см. предыдущее определение "DARK4"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(48): warning C4005: DARK5: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(21): см. предыдущее определение "DARK5"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(49): warning C4005: DARK6: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(22): см. предыдущее определение "DARK6"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(50): warning C4005: DARK7: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(23): см. предыдущее определение "DARK7"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(51): warning C4005: DARK8: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(24): см. предыдущее определение "DARK8"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(52): warning C4005: DARK9: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(25): см. предыдущее определение "DARK9"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(53): warning C4005: DARK10: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(26): см. предыдущее определение "DARK10"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(54): warning C4005: DARK11: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(27): см. предыдущее определение "DARK11"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(55): warning C4005: DARK12: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(28): см. предыдущее определение "DARK12"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(56): warning C4005: DARK13: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(29): см. предыдущее определение "DARK13"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(57): warning C4005: DARK14: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(30): см. предыдущее определение "DARK14"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(58): warning C4005: DARK15: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(31): см. предыдущее определение "DARK15"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(59): warning C4005: DARK16: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(32): см. предыдущее определение "DARK16"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(60): warning C4005: DARK18: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(33): см. предыдущее определение "DARK18"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(62): warning C4005: WINDOWS: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(34): см. предыдущее определение "WINDOWS"
+     1>c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(63): warning C4005: WINDOWS2: изменение макроопределения
+                 c:\users\dotnet\dropbox\metro hack engine\metro hack engine\Color.h(35): см. предыдущее определение "WINDOWS2"
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\DotNET\Dropbox\Metro Hack Engine\Release\Metro Hack Engine.dll) не соответствует значению свойства выходного файла (C:\Users\DotNET\Dropbox\Metro Hack Engine\Release\dxhook.dll) для Linker. Это может привести к неправильному построению проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(Metro Hack Engine) не соответствует значению свойства выходного файла (dxhook) для Linker. Это может привести к неправильному построению проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DotNET\Dropbox\Metro Hack Engine\Release\dxhook.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Metro Hack Engine.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\DotNET\Dropbox\Metro Hack Engine\Release\Metro Hack Engine.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DotNET\Dropbox\Metro Hack Engine\Release\Metro Hack Engine.lib" /MACHINE:X86 /DLL Release\Main.obj
+         Создание кода
+         Создание кода завершено
+         Metro Hack Engine.vcxproj -> C:\Users\DotNET\Dropbox\Metro Hack Engine\Release\Metro Hack Engine.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\DotNET\Dropbox\Metro Hack Engine\Release\dxhook.dll;#2" /manifest "Release\Metro Hack Engine.dll.intermediate.manifest"
+     1>Построение проекта "C:\Users\DotNET\Dropbox\Metro Hack Engine\Metro Hack Engine\Metro Hack Engine.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.49
